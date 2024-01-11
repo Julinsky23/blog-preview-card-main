@@ -19,11 +19,12 @@ Users should be able to:
 
 ### Screenshot
 **Mobile Version**
-![](./design/mobileVersion.png)
+
+<img src="design/mobileVersion.png" width="400">
 
 **Active**
 
-![](./design/mobileVersionActive.png)
+<img src="design/mobileVersionActive.png" width="400">
 
 **Desktop Version**
 ![](./screenshot.jpg)
