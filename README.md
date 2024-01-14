@@ -18,7 +18,6 @@ Users should be able to:
 - See hover and focus states for all interactive elements on the page
 
 ### Screenshot
-**Mobile Version**
 
 <img src="design/mobileVersion.png" width="400">
 
@@ -26,8 +25,6 @@ Users should be able to:
 
 <img src="design/mobileVersionActive.png" width="400">
 
-**Desktop Version**
-![](./screenshot.jpg)
 
 
 ## My process
